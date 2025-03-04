@@ -1,4 +1,4 @@
-const test = [14,10,12,19,20]
+const test = [14,10,12,19,20,21]
 const find = 16
 
 const findClosest = (arr, num) => {
